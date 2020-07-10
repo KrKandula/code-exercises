@@ -1,4 +1,4 @@
-//Vonage
+//Company:Vonage
 
 // trialing zeros have to be removed and the numbers need to be grouped and evaluated for comparison
 // digit is greater than number

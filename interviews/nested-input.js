@@ -1,4 +1,4 @@
-//Amazon|frontend-engineer|phone-interview
+//company:Amazon|frontend-engineer|phone-interview
 //06-29-2020
 //solution: https://plnkr.co/edit/AfwbNUVbZhElCRCk
 
